@@ -36,6 +36,7 @@ dependencies:
   - jupyter_client=6.1.1
   - jupyter_console=6.0.0
   - jupyter_core=4.6.0
+  - jupyterhub-base=1.4.2
   - libblas=3.8.0
   - libcblas=3.8.0
   - libedit=3.1.20181209
